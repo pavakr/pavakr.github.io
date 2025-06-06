@@ -1,8 +1,12 @@
 http://qrcoder.ru/
 
-zpkd1://pavakr.github.io/S4UAssen_GTR_4.zpk
+zpkd1://pavakr.github.io/Silver+Shadow_pavakr.zpk
+
 
 Название: S4UAssen
+
+zpkd1://pavakr.github.io/S4UAssen_GTR_4.zpk
+
 Версия часов: GTR 4
 
 Тип: Комбинированный
